@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+.pytest_cache/
+.DS_Store
+_figma_ref.png
+_render.png
+_diff.png
+_figma_spec.md
