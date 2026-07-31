@@ -77,4 +77,4 @@ figma-pixel-perfect/
 
 ## Лицензия
 
-MIT. Делай что хочешь.
+MIT — см. [LICENSE](LICENSE). Делай что хочешь.
